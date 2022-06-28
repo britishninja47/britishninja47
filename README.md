@@ -1,3 +1,4 @@
-                                        Hi there, My names Jeremaih Harriott and im proud to say that I love to CODE!!
+<h1> WELL HELLO THERE?&#129299 </h1> 
 
-based on everything ive learned
+<h2>&#129488 WHO AM I?</h2> 
+&#127891 My name is Jeremiah Harriott, Junior Full-Stack Web Developer with an absolute love for creating and designing apps.
