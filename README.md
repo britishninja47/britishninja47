@@ -1,5 +1,7 @@
+<!--Below is the added animated gif with social media badges and profile counter-->
+
 <div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>      
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>      
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/jeremiah-harriott/">
@@ -14,7 +16,12 @@
 <img src="https://komarev.com/ghpvc/?username=britishninja47&style=flat-square&color=blue" alt=""/>                                                                         
   
 
-<h1> WELL HELLO THERE?&#129299 </h1> 
+<h1> WELL, HELLO THERE?&#129299 </h1> 
+
+
+<div align="center">
+  <img src="blob:https://tenor.com/07cea4ac-c583-49a3-a5f3-e4ebcced96aa" width="600" height="300"/>
+</div>
 
 <h2>&#129488 WHO AM I?</h2> 
 &#127891 My name is Jeremiah Harriott, Junior Full-Stack Web Developer with a new absolute love for coding and desigining.
