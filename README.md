@@ -31,8 +31,10 @@
   <h4> - 💡 In my pass time I love comimg up with new ideas for future projects while reading latest tech articles for inspiration.  
   
 ---
-  <h2> 📱 CONTACTING ME? </h2> 
-  How to reach me: a href
+  <h2> 📱 WANT TO CONNECT? </h2> 
+  How to reach me: <a href="https://www.linkedin.com/in/jeremiah-harriott/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
 
 ---
@@ -70,6 +72,9 @@
 ---  
   ### <img src="https://media.giphy.com/media/mB0DmKFQdvFUMhpV1H/giphy.gif" width="30" height="30"/> My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=britishninja47&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=britishninja47&theme=nightowl)](https://git.io/streak-stats) 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britishninja47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   </div>
                                                                                                                                                     
