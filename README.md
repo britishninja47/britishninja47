@@ -26,16 +26,50 @@
 <h2>&#129488 WHO AM I?</h2> 
   
 <h4> &#127891 My name is Jeremiah Harriott, Junior Full-Stack Web Developer from :canada:Toronto,Canada </h4> 
-  <h4> - :bulb: I enjoy spending time learning new skills, building new projects while improving on my frontend and backend for building stronger web applications.</h4> 
-  <h4> - :video_game: Iv'e always had a love for gaming and i'm currently working on my first fighting game called "Samurai Code"! 
+<h4> - 📖 I enjoy spending time learning new skills, building new projects and improving on my front-end and back-end for building stronger web applications.</h4> 
+  <h4> - :video_game: Iv'e always had a love for gaming and i'm currently working on my first fighting game called "Samurai Code"! </h4> 
+  <h4> - 💡 In my pass time I love comimg up with new ideas for future projects while reading latest tech articles for inspiration.  
+  
+---
+  <h2> 📱 CONTACTING ME? </h2> 
+  How to reach me: a href
   
 
 ---
                                                                                
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="40" 
+       height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" 
+       height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" 
+       height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" alt="Html" width="40" 
+       height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" 
+       height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" 
+       height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" 
+       height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" 
+       height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" 
+       height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" 
+       height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   
+---  
+  ### <img src="https://media.giphy.com/media/mB0DmKFQdvFUMhpV1H/giphy.gif" width="30" height="30"/> My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=britishninja47&theme=dark&background=000000)](https://git.io/streak-stats)
   </div>
                                                                                                                                                     
