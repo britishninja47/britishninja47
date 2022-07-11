@@ -26,9 +26,9 @@
 <h2>&#129488 WHO AM I?</h2> 
   
 <h4> &#127891 My name is Jeremiah Harriott, Junior Full-Stack Web Developer from :canada:Toronto,Canada </h4> 
-<h4> - 📖 I enjoy spending time learning new skills, building new projects and improving on my front-end and back-end for building stronger web applications.</h4> 
-  <h4> - :video_game: Iv'e always had a love for gaming and i'm currently working on my first fighting game called "Samurai Code"! </h4> 
-  <h4> - 💡 In my pass time I love coming up with new ideas for future projects while reading latest tech articles for inspiration.  
+<h4>  📖 I enjoy spending time learning new skills, building new projects and improving on my front-end and back-end for building stronger web applications.</h4> 
+  <h4> :video_game: Iv'e always had a love for gaming and i'm currently working on my first fighting game called "Samurai Code"! </h4> 
+  <h4> 💡 In my pass time I love coming up with new ideas for future projects while reading latest tech articles for inspiration.  
   
 ---
   <h2> 📱 WANT TO CONNECT? </h2> 
