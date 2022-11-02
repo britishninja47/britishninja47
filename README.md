@@ -74,6 +74,8 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=britishninja47&theme=nightowl)](https://git.io/streak-stats) 
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=britishninja47&show_icons=true&theme=radical) 
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harriott_47&cover_image=true&theme=default&show_offline=false&bar_color_cover=false&bar_color=389f34)](https://github.com/kittinan/spotify-github-profile)
   
   </div>
