@@ -27,7 +27,6 @@
   
 <h4> &#127891 My name is Jeremiah Harriott, Junior Full-Stack Web Developer from :canada:Toronto,Canada </h4> 
 <h4>  📖 I enjoy spending time learning new skills, building new projects and improving on my front-end and back-end for building stronger web applications.</h4> 
-  <h4> :video_game: Iv'e always had a love for gaming and recently finished working on my first fighting game called "Samurai Code"! https://samurai-code.netlify.app/ </h4> 
   <h4> 💡 In my pass time I love coming up with new ideas for future projects while reading latest tech articles for inspiration and staying fit by going to the gym and staying healthy.  
   
 ---
